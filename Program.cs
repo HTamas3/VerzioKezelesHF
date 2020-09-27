@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace VerzioKezelesHF
 {
@@ -9,7 +10,7 @@ namespace VerzioKezelesHF
             Console.WriteLine("Add meg mennyi szám legyen!");
             int szam = Convert.ToInt32(Console.ReadLine());
             int[] szamok = new int[szam];
-            Console.WriteLine("Adj meg 10 számot");
+            Console.WriteLine("Adj meg {0} számot", szam);
             for(int i=0; i<szam; i++)
             {
                 Console.Write("{0} szám: ",i+1);
@@ -20,7 +21,12 @@ namespace VerzioKezelesHF
             {
                 osszeg = osszeg + szamok[i];
             }
-            Console.WriteLine("Átlag: {0}", osszeg%szam);
+            Console.WriteLine("Átlag: {0}", osszeg / szam);
+            int max = szamok.Max();
+            int min = szamok.Min();
+            Console.WriteLine("Maximum:" + max);
+            Console.WriteLine("Minimum:" + min);
+            
             Console.ReadLine();
         }
     }
