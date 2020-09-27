@@ -1,0 +1,13 @@
+/home/tomi/Dokumentumok/VerzioKezelesHF/bin/Debug/netcoreapp3.1/VerzioKezelesHF
+/home/tomi/Dokumentumok/VerzioKezelesHF/bin/Debug/netcoreapp3.1/VerzioKezelesHF.deps.json
+/home/tomi/Dokumentumok/VerzioKezelesHF/bin/Debug/netcoreapp3.1/VerzioKezelesHF.runtimeconfig.json
+/home/tomi/Dokumentumok/VerzioKezelesHF/bin/Debug/netcoreapp3.1/VerzioKezelesHF.runtimeconfig.dev.json
+/home/tomi/Dokumentumok/VerzioKezelesHF/bin/Debug/netcoreapp3.1/VerzioKezelesHF.dll
+/home/tomi/Dokumentumok/VerzioKezelesHF/bin/Debug/netcoreapp3.1/VerzioKezelesHF.pdb
+/home/tomi/Dokumentumok/VerzioKezelesHF/obj/Debug/netcoreapp3.1/VerzioKezelesHF.csprojAssemblyReference.cache
+/home/tomi/Dokumentumok/VerzioKezelesHF/obj/Debug/netcoreapp3.1/VerzioKezelesHF.AssemblyInfoInputs.cache
+/home/tomi/Dokumentumok/VerzioKezelesHF/obj/Debug/netcoreapp3.1/VerzioKezelesHF.AssemblyInfo.cs
+/home/tomi/Dokumentumok/VerzioKezelesHF/obj/Debug/netcoreapp3.1/VerzioKezelesHF.csproj.CoreCompileInputs.cache
+/home/tomi/Dokumentumok/VerzioKezelesHF/obj/Debug/netcoreapp3.1/VerzioKezelesHF.dll
+/home/tomi/Dokumentumok/VerzioKezelesHF/obj/Debug/netcoreapp3.1/VerzioKezelesHF.pdb
+/home/tomi/Dokumentumok/VerzioKezelesHF/obj/Debug/netcoreapp3.1/VerzioKezelesHF.genruntimeconfig.cache
